@@ -43,7 +43,10 @@ by going to Simulation ⇒ Start
 14.	Analyze and record your inference.
 
 ## Simulation
+<img width="1600" height="725" alt="image" src="https://github.com/user-attachments/assets/193b0613-f57d-4c5b-aeda-ae97f507a0fb" />
 
 ## Output
+<img width="1600" height="810" alt="image" src="https://github.com/user-attachments/assets/242fc085-cc46-4e44-87ec-5699744e16a5" />
 
 ## Result
+The Simulation of Three phase full wave rectifier is successfully verified
